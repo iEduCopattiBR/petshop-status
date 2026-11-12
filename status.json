@@ -2,7 +2,7 @@
   "clientes": {
     "galera-animal": {
       "ativo": true,
-      "valido_ate": "2026-12-10",
+      "valido_ate": "2026-10-10",
       "mensagem": "Mensalidade pendente. Fale com o responsável."
     }
   }
